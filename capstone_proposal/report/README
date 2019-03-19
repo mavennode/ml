@@ -1,0 +1,7 @@
+数据获取：
+1.训练集
+wget https://www.kaggle.com/c/3362/download/train.zip
+2.测试集
+wget https://www.kaggle.com/c/3362/download/test1.zip
+3.提交样本格式
+wget https://www.kaggle.com/c/3362/download/sampleSubmission.csv
